@@ -31,7 +31,7 @@ Será que os houve relevante aumento de verbas para o MS em virtude da pandemia?
 
 ## Metodologia:
 
-Após baixar o arquivo no formato **.csv**, os dados foram tratados com **Pandas** para visualização do dataset. Em seguida, foram feitos os devidos filtros pelo período de 2018 e 2022, bem como das colunas de interesse (Valor Empenhado, Valor Liquidado e Valor Pago.
+Após baixar o arquivo no formato **.csv**, os dados foram tratados com **Pandas** para visualização do dataset. Em seguida, foram feitos os devidos filtros pelo período de 2018 e 2022, bem como das colunas de interesse (Valor Empenhado, Valor Liquidado e Valor Pago. A biblioteca **Numpy** permitiu criar um arange para sequenciar os valores para cada barra do gráfico.
 
 <img src="/img/dataset.png">
 
