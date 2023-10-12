@@ -51,6 +51,8 @@ Entretanto, também há uma clara diferença quando se analisam os Valores Empen
 
 Em 2022 a diferença volta a pouco mais de 1 bilhão (14,87 em valores empenhados contra 13,4 bilhões em valores pagos).
 
+**OBS**: o dataset permite, ainda, que sejam realizadas pesquisas pelo nome do autor, âmbito da aplicação da verba (nacional ou regional) e ainda traz a identificação do Estado/município do autor e aplicação da emenda, o que pode ampliar os dados para novas abordagens.
+
 ### Entretanto....
 
 Mas, olhar friamente apenas os números pode levar a conclusões precipitadas. Deve-se analisar o contexto em que estas verbas foram destinadas.
