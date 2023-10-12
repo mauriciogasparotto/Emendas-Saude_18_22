@@ -38,7 +38,7 @@ Após baixar o arquivo no formato **.csv**, os dados foram tratados com **Pandas
 ###
 Após somar os valores das emendas por ano e por critério, passou a plotagem do gráfico em **Matplotlib**. O modelo escolhido foi o barras horizontais agrupadas, uma vez que os valores são altos e incluir os rótulos tornariam mais legíveis. Outros modelos foram testados, mas mostraram-se pouco legíveis (colunas verticais agrupadas, por exemplo). E, também, os rótulos dos valores foram encurtados, devido aos mesmos serem extensos para leitura.
 
-<img src="/img/dataset.png">
+<img src="/img/grafico.png">
 
 ###
 ## Considerações:
