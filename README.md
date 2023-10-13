@@ -17,7 +17,7 @@ Será que os houve relevante aumento de verbas para o MS em virtude da pandemia?
 * **data:** arquivos **.csv** baixados no site do Portal da Transparência;
 * **img:** capturas de tela e gráficos do projeto;
 * **code:** estrutura dos códigos para **Jupyter Notebook** (.ipynb) e **VSCode** (.py);
-* **english version:** a translate of **reademe.md** (.pdf).
+* **english version:** a translate of **readme.md** (.pdf).
 
 ## Linguagem utilizada:
 
