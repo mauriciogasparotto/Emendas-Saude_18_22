@@ -57,6 +57,6 @@ Em 2022 a diferença volta a pouco mais de 1 bilhão (14,87 em valores empenhado
 
 Mas, olhar friamente apenas os números pode levar a conclusões precipitadas. Deve-se analisar o contexto em que estas verbas foram destinadas.
 
-Durante todo o período da pandemia, vários casos de desvio de dinheiro, superfaturamento, corrupção e destinação indevida foram relatados e ainda hoje (2023) estão sendo investigados pelos órgãos policiais.
+Durante todo o período da pandemia, vários casos de desvio de dinheiro, superfaturamento, corrupção e destinação indevidas foram relatados e ainda hoje (2023) estão sendo investigados pelos órgãos policiais.
 
 Acrescente-se, também, que houve uma CPI pelo Senado da República - a CPI da Pandemia - que investigou e demonstrou casos de corrupção e desvio de dinheiro público.
